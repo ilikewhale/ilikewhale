@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFC0CB&text=Backend%20Dev%20Eddie&textBg=false&fontColor=333333&fontSize=40&fontAlignY=45&animation=fadeIn&desc=Daeun%20Kim&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Backend Dev Eddie">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFC0CB&text=Backend%20Dev%20Eddie&textBg=false&fontColor=666666&fontSize=40&fontAlignY=45&animation=fadeIn&desc=Daeun%20Kim&descAlignY=63&descSize=30&fontAlign=47&descAlign=56" alt="Backend Dev Eddie">
 
 
 
