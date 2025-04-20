@@ -47,7 +47,7 @@
 </p>
 
 ---
-## I'm interested in...💙
+## I'm interested in...🐳
 - GenAI (Generative AI)
 - LLM (Large Language Model)
 - DSP (Digital Signal Processing)
